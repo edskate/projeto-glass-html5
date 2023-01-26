@@ -82,6 +82,7 @@ figure.foto-legenda figcaption {
   padding: 10px;
   box-sizing: border-box;
   transition: opacity 1s;
+  
 }
 
 figure.foto-legenda:hover figcaption {
@@ -147,7 +148,7 @@ color: #606060;
 margin-bottom: 0px;
 }
 .direita {
-  text-align: right;
+  text-align: left;
 }
 header#cabecalho-artigo h2 {
   font-family: 'FonteLogo' sans-serif;
